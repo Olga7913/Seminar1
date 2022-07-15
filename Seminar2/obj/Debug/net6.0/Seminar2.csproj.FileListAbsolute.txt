@@ -1,0 +1,15 @@
+D:\Обучение\Git\Seminar\Seminar1\Seminar2\bin\Debug\net6.0\Seminar2.exe
+D:\Обучение\Git\Seminar\Seminar1\Seminar2\bin\Debug\net6.0\Seminar2.deps.json
+D:\Обучение\Git\Seminar\Seminar1\Seminar2\bin\Debug\net6.0\Seminar2.runtimeconfig.json
+D:\Обучение\Git\Seminar\Seminar1\Seminar2\bin\Debug\net6.0\Seminar2.dll
+D:\Обучение\Git\Seminar\Seminar1\Seminar2\bin\Debug\net6.0\Seminar2.pdb
+D:\Обучение\Git\Seminar\Seminar1\Seminar2\obj\Debug\net6.0\Seminar2.csproj.AssemblyReference.cache
+D:\Обучение\Git\Seminar\Seminar1\Seminar2\obj\Debug\net6.0\Seminar2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Git\Seminar\Seminar1\Seminar2\obj\Debug\net6.0\Seminar2.AssemblyInfoInputs.cache
+D:\Обучение\Git\Seminar\Seminar1\Seminar2\obj\Debug\net6.0\Seminar2.AssemblyInfo.cs
+D:\Обучение\Git\Seminar\Seminar1\Seminar2\obj\Debug\net6.0\Seminar2.csproj.CoreCompileInputs.cache
+D:\Обучение\Git\Seminar\Seminar1\Seminar2\obj\Debug\net6.0\Seminar2.dll
+D:\Обучение\Git\Seminar\Seminar1\Seminar2\obj\Debug\net6.0\refint\Seminar2.dll
+D:\Обучение\Git\Seminar\Seminar1\Seminar2\obj\Debug\net6.0\Seminar2.pdb
+D:\Обучение\Git\Seminar\Seminar1\Seminar2\obj\Debug\net6.0\Seminar2.genruntimeconfig.cache
+D:\Обучение\Git\Seminar\Seminar1\Seminar2\obj\Debug\net6.0\ref\Seminar2.dll
